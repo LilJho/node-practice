@@ -1,0 +1,41 @@
+20230323	05:12:40	3ef35195-b789-4723-adb8-426f04007171	/new-page	GET
+20230323	05:12:40	33cef181-1e96-441d-832f-ab1acde3222f	/css/style.css	GET
+20230323	05:12:40	a52e7b00-7c4b-455f-a21c-2850df666dab	/img/Profile.png	GET
+20230323	05:12:40	92723725-f5ba-41e9-ac80-bb030c83b2d7	/favicon.ico	GET
+20230323	05:13:50	7e419c55-441d-49bb-a70a-e8a2b8bfff2f	/new-page	GET
+20230323	05:14:17	ec091c11-2d7a-40db-8663-f6de3b288e2c	/new-page	GET
+20230323	05:14:17	76c49e46-e4d9-4d69-85ef-1a2629bf66fe	/css/style.css	GET
+20230323	05:14:17	3583af2e-fd20-4cc5-92f2-9d46ecd74663	/img/Profile.png	GET
+20230323	05:14:40	22e650d1-11c7-47ff-b4f6-0ee02f4da0ac	/index	GET
+20230323	05:14:40	7b949619-9eaa-4d2c-b1ee-0a1fa4572ae4	/css/style.css	GET
+20230324	23:44:23	242fe900-ecec-4532-a6ec-104a49f1866f	GET	undefined	/
+20230324	23:44:23	6beee3ef-3de5-44c1-92ff-6726eab4f918	GET	undefined	/css/styles.css
+20230324	23:48:10	cc27622d-da5c-4db7-b84a-14584a990251	GET	undefined	/
+20230324	23:48:10	f4638d16-6667-499c-a19c-cbcd560234fb	GET	undefined	/css/styles.css
+20230324	23:48:34	2dee3da7-efec-4a93-9689-595e51d3fe75	GET	undefined	/
+20230324	23:48:34	bdddb6da-974e-4506-bf52-12ce8b78b0ae	GET	undefined	/css/styles.css
+20230324	23:48:37	dc9f256a-bb6f-4065-9ab0-247e92bdf8db	GET	undefined	/
+20230324	23:48:37	f4924d98-2340-4254-9375-1e4dced33734	GET	undefined	/css/styles.css
+20230324	23:50:24	29fe9a5f-d85b-46d5-99de-ae36a8387bea	OPTIONS	https://www.google.com	/
+20230324	23:50:24	fe509817-1ce7-45e4-8a07-d96a107aabb2	GET	https://www.google.com	/
+20230324	23:55:01	6878cfd7-4895-4cbe-b070-134e2f5f5ce4	GET	undefined	/
+20230324	23:55:01	cc1a50b2-4cd5-4815-a8af-7775fdfae782	GET	undefined	/css/styles.css
+20230324	23:55:18	023bed61-2d6b-41d3-9279-f1fd142fdaf9	OPTIONS	https://www.google.com	/
+20230324	23:55:18	5239be12-5755-4d8a-93ec-a9bfde26dbfc	GET	https://www.google.com	/
+20230325	00:14:58	4bd564e9-48aa-46ae-978e-06e7189bb4f9	OPTIONS	https://www.google.com	/
+20230325	00:14:58	4e815b58-f1cf-4da3-b950-fc16e06eb6e0	GET	https://www.google.com	/
+20230325	00:15:22	f90a1c09-6a0b-4624-a006-b3efb305240c	OPTIONS	https://www.google.com	/
+20230325	00:15:22	5ce80858-3f6d-4969-afc2-b9ae205c51cb	GET	https://www.google.com	/
+20230325	00:27:17	4b4f6cc0-e23a-49cd-b234-7086103ac3c4	GET	undefined	/
+20230325	00:28:44	0a615504-1e17-408d-90f2-c5c79eabb6b0	GET	undefined	/
+20230325	00:28:46	f75212d5-21c8-4cf7-ab7b-7068ffa8b2fa	GET	undefined	/
+20230325	00:29:11	2dd37130-772e-47d6-9cb7-e7b578f752b2	GET	undefined	/
+20230325	00:29:11	7c375b52-464b-4437-bd05-0a7817a4fdf5	GET	undefined	/css/styles.css
+20230325	00:29:13	d475a9be-a111-4d37-b6b8-d98df331a832	GET	undefined	/
+20230325	00:29:13	085b724b-dab9-4fa1-8c17-9e67783f7a77	GET	undefined	/css/styles.css
+20230325	00:29:20	4a6726f4-9a5e-4db9-b6ad-96c898d670bb	GET	undefined	/
+20230325	00:30:28	787b9607-ac32-47a5-8a31-7e6fb71c7dcf	GET	undefined	/
+20230325	00:31:19	20718279-d4c2-4c31-b0f1-981e4557f968	GET	undefined	/
+20230325	00:31:19	00f80d1e-495a-408b-a2cf-85b5558692fd	GET	undefined	/css/styles.css
+20230325	00:39:07	66b11a9a-23c0-4cab-9561-4d1ca024df58	GET	undefined	/jhonell
+20230325	00:39:07	a3582731-67ee-4015-946e-e4947b6e0c52	GET	undefined	/css/styles.css
