@@ -1,1 +1,7 @@
-[{"username":"Sachi","password":"$2b$10$wreK4AFPZhYu88jcFqGjhOlBAHkW9t41OGbWU8wtJDi1WPUDFiaHC","refreshToken":""}]
+[
+  {
+    "username": "Sachi",
+    "password": "$2b$10$wreK4AFPZhYu88jcFqGjhOlBAHkW9t41OGbWU8wtJDi1WPUDFiaHC",
+    "refreshToken": ""
+  }
+]
